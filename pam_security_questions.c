@@ -1,5 +1,6 @@
 #include <security/pam_modules.h>  // Módulo PAM principal
 #include <security/pam_ext.h>    // Para pam_prompt e pam_syslog
+#include <security/pam_appl.h>
 #include <stdio.h>               // Para operações de I/O
 #include <stdlib.h>              // Para srand, rand, free
 #include <string.h>              // Para strcmp
