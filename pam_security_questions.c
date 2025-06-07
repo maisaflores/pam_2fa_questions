@@ -11,14 +11,14 @@
 // Certifique-se de que o número de perguntas e respostas seja o mesmo.
 static const char *questions[] = {
     "Qual é o nome da sua primeira mascote de estimação?",
-    "Qual é a cidade natal da sua mãe?",
+    "Qual sua idade?",
     "Qual é a sua cor favorita?"
 };
 
 static const char *answers[] = {
-    "Toto",      // Resposta para a primeira pergunta
-    "Sao Paulo", // Resposta para a segunda pergunta
-    "Azul"       // Resposta para a terceira pergunta
+    "Polly",      // Resposta para a primeira pergunta
+    "19", // Resposta para a segunda pergunta
+    "Vermelho"       // Resposta para a terceira pergunta
 };
 
 // Calcula o número de perguntas na array
